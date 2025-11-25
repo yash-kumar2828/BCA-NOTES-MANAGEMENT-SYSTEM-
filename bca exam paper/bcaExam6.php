@@ -77,7 +77,7 @@
                     <b class="subBold">Download Exam Papers:-</b>
                 </div>
                 <div class="clickPdf">
-                    <p><a href="" class="clickpdf1">Download Exam Paper</a></p>
+                    <p><a href="../pdf/CNS.pdf" class="clickpdf1">Download Exam Paper</a></p>
                 </div>
             </div>
         </div>
@@ -89,7 +89,7 @@
                     <b class="subBold">Download Exam Papers:-</b>
                 </div>
                 <div class="clickPdf">
-                    <p><a href="" class="clickpdf1">Download Exam Paper</a></p>
+                    <p><a href="../pdf/ADI.pdf" class="clickpdf1">Download Exam Paper</a></p>
                 </div>
             </div>
         </div>
@@ -101,7 +101,7 @@
                     <b class="subBold">Download Exam Papers:-</b>
                 </div>
                 <div class="clickPdf">
-                    <p><a href="" class="clickpdf1">Download Exam Paper</a></p>
+                    <p><a href="../pdf/E_Com.pdf" class="clickpdf1">Download Exam Paper</a></p>
                 </div>
             </div>
         </div>

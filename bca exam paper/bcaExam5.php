@@ -77,7 +77,7 @@
                     <b class="subBold">Download Exam Papers:-</b>
                 </div>
                 <div class="clickPdf">
-                    <p><a href="" class="clickpdf1">Download Exam Paper</a></p>
+                    <p><a href="../pdf/JAVA.pdf" class="clickpdf1">Download Exam Paper</a></p>
                 </div>
             </div>
         </div>
@@ -89,7 +89,7 @@
                     <b class="subBold">Download Exam Papers:-</b>
                 </div>
                 <div class="clickPdf">
-                    <p><a href="" class="clickpdf1">Download Exam Paper</a></p>
+                    <p><a href="../pdf/COMPUTER_NETWORK.pdf" class="clickpdf1">Download Exam Paper</a></p>
                 </div>
             </div>
         </div>
@@ -101,7 +101,7 @@
                     <b class="subBold">Download Exam Papers:-</b>
                 </div>
                 <div class="clickPdf">
-                    <p><a href="" class="clickpdf1">Download Exam Paper</a></p>
+                    <p><a href="../pdf/CGMA.pdf" class="clickpdf1">Download Exam Paper</a></p>
                 </div>
             </div>
         </div>
@@ -113,7 +113,7 @@
                     <b class="subBold">Download Exam Papers:-</b>
                 </div>
                 <div class="clickPdf">
-                    <p><a href="" class="clickpdf1">Download Exam Paper</a></p>
+                    <p><a href="../pdf/STATISTICS.pdf" class="clickpdf1">Download Exam Paper</a></p>
                 </div>
             </div>
         </div>
